@@ -158,8 +158,7 @@ social-engineering-security-awareness-lab/
 │   ├── attack_types.md
 │   ├── phishing_analysis.md
 │   └── security_awareness_training.md
-├── templates/
-└── screenshots/
+
 ```
 
 ---
