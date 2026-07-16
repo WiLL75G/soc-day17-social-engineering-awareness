@@ -81,12 +81,12 @@ A social engineering security awareness lab was conducted to document real attac
 ### 4. Security Awareness Training Material Built
 
 - Built a complete 6 module security awareness training guide for Nexus Corp employees
-- Module 1 — The 6 Golden Rules of Security
-- Module 2 — SLAM Method for phishing detection
-- Module 3 — Phone call verification protocol
-- Module 4 — 4 real attack scenarios with correct responses
-- Module 5 — Incident reporting procedure
-- Module 6 — Security quick reference card
+- Module 1 The 6 Golden Rules of Security
+- Module 2 SLAM Method for phishing detection
+- Module 3 Phone call verification protocol
+- Module 4 4 real attack scenarios with correct responses
+- Module 5 Incident reporting procedure
+- Module 6 Security quick reference card
 
 #### SOC Observations:
 
