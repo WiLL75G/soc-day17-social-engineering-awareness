@@ -1,4 +1,4 @@
-# Day 17 – SOC Tier 1 Incident Report: Social Engineering & Security Awareness Lab
+# SOC Tier 1 Incident Report: Social Engineering & Security Awareness Lab
 
 ---
 
